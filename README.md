@@ -1,4 +1,6 @@
-This is a simple app created (using next.js) which fetches information about different countries.
+This is a simple app **(created using next.js)** which fetches information about different countries.
+
+A live version of this app can be found [here](https://country-info-gules.vercel.app/).
 
 ## To get this app to work:
 
